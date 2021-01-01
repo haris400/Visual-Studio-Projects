@@ -1,0 +1,74 @@
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.About.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DonationForm.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Donor_Form.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Inventory.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.RemoveDonor.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.GenerateResource.Cache
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csprojResolveAssemblyReference.cache
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ChangePassword.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.INFO.resources
+C:\Users\stunn\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Admin.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csprojAssemblyReference.cache
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.About.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Admin.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ChangePassword.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DonationForm.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Donor_Form.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.INFO.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Inventory.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.RemoveDonor.resources
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.GenerateResource.cache
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Tiger\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csprojResolveAssemblyReference.cache
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.About.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Admin.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ChangePassword.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DonationForm.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Donor_Form.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.INFO.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Inventory.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.RemoveDonor.resources
+C:\Users\stunn\Desktop\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.GenerateResource.Cache
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.About.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Admin.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.ChangePassword.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DonationForm.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Donor_Form.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.INFO.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Inventory.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.RemoveDonor.resources
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.GenerateResource.cache
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\Blood Donation Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Haris Bin Irfan\Desktop\maxhi wsork\Blood donation managment system\Blood donation managment system\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
